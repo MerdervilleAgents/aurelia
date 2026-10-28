@@ -14,4 +14,3 @@ Deploy this repository as a static HTML website in Hostinger. The document root 
 - credits.txt: artwork and prototype asset credits
 
 Character artwork is still imagery. The older 3D prototypes are not part of this deployment.
-

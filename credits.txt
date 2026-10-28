@@ -1,0 +1,44 @@
+CINEMATIC CHARACTER ARTWORK
+
+The 17 finished character studies were created for this project using the built-in image-generation tool, guided by the approved knight concept and the user's references. Full prompts are recorded in Character artwork prompts.json.
+
+The supplied city artwork is used in the landing hero. The cinematic images are distinct from the interactive 3D prototypes.
+
+3D PROTOTYPE SOURCES AND LICENSES
+
+Aurelia Prime — Character Overhaul
+
+Human base mesh, skin textures, fitted hair and garments adapted from MakeHuman core assets (CC0 1.0).
+Source: https://github.com/makehumancommunity/makehuman
+License: https://www.makehumancommunity.org/about/license.html
+Asset pack: https://files.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip
+
+The reference city artwork is supplied by the user.
+
+Three.js r184 MIT license follows:
+
+The MIT License
+
+Copyright © 2010-2026 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+ELDER OPTION ADDITION
+An elderly man was generated with the built-in image generation tool using the original elderly woman artwork as a style and composition reference. The original woman artwork is preserved. Both appear as selectable elder options in the Community story. The male option is artwork only; the old 3D prototypes are unchanged. Exact generation prompt: Character artwork prompts.json, elder-man entry.
